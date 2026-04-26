@@ -1,0 +1,1 @@
+wb.series.info(q='inflation')
