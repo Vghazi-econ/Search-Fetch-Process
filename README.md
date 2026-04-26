@@ -31,3 +31,5 @@ df_final = df.T
 
 print(df_final)
 ```
+
+![Economic Comparison Chart](SAU%20vs%20EGY.png)
